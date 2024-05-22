@@ -1,12 +1,7 @@
 #include <Arduino.h>
-#include <WiFi.h>
-#include <WiFiClientSecure.h>
-#include <HTTPClient.h>
-#include <ArduinoJson.h>
 #include "Audio.h"
 #include <SD.h>
 #include <SPI.h>
-#include <Base64.h>
 #include <driver/i2s.h>
 
 // Configuración del I2S
