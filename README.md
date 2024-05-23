@@ -227,7 +227,9 @@ Esta és la comprobación por MATLAB de que se han leído datos en ese archivo y
         disp('El archivo audio.WAV no se encuentra en el directorio actual.');
     end
 ```
-<img src="foto.png" width="1000" height="550">
+
+<img src="foto.PNG" width="1000" height="550">
+
 
 ### Salida puerto serie: 
 ```
